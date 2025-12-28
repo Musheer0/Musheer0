@@ -13,7 +13,6 @@ I build stuff. Break stuff. Fix stuff. Repeat.
 
 **Frontend**
 - Next.js
-- Angular
 
 **Backend**
 - NestJS
