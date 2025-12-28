@@ -49,7 +49,7 @@ No “follow-along tutorial merchant” behavior here.
 
 ## 📌 Currently
 - Building some dumb projects
-- Going deeper into backend ,frontend & systems  
+- Going deeper into backend, frontend, and systems
 
 ---
 
