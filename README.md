@@ -1,8 +1,8 @@
-## 👋 yo, I’m Musheer
+
 
 I build stuff. Break stuff. Fix stuff. Repeat.
 
-- 💻 Coding since **12th holidays** (aka when life still had free time)
+- 💻 Coding since **12th holidays**
 - 🧠 Everything here is **self-taught**  
   YouTube • ChatGPT • Docs • Trial & error  
 - 🐧 I use **Arch Linux btw** 
@@ -20,8 +20,8 @@ I build stuff. Break stuff. Fix stuff. Repeat.
 **Languages**
 - JavaScript
 - Python
-- Go
-- C
+- Go basics
+- C basics 
 
 ---
 
