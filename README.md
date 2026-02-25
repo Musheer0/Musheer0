@@ -19,6 +19,7 @@ I build stuff. Break stuff. Fix stuff. Repeat.
 
 **Languages**
 - JavaScript
+- Typescript
 - Python
 - Go basics
 - C basics 
