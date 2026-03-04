@@ -8,7 +8,7 @@ I build stuff. Break stuff. Fix stuff. Repeat.
 - 🐧 I use **Arch Linux btw** 
 ---
 
-## 🧰 Tech I actually use (not résumé filler)
+## 🧰 Tech 
 
 **Frontend**
 - Next.js
