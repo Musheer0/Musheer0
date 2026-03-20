@@ -16,6 +16,7 @@ I build stuff. Break stuff. Fix stuff. Repeat.
 **Backend**
 - NestJS
 - FastAPI
+- FastAPI(modal)
 
 **Languages**
 - JavaScript
