@@ -1,41 +1,45 @@
+I build systems. Break them. Fix them. Repeat.
 
+💻 Coding since 12th holidays  
+🧠 Fully self-taught (YouTube, docs, trial & error)  
+🐧 Arch Linux user (yeah, I deal with my own problems)
 
-I build stuff. Break stuff. Fix stuff. Repeat.
-
-- 💻 Coding since **12th holidays**
-- 🧠 Everything here is **self-taught**  
-  YouTube • ChatGPT • Docs • Trial & error  
-- 🐧 I use **Arch Linux btw** 
 ---
 
-## 🧰 Tech 
+## ⚡ What I do
+
+- Build backend-heavy apps with async processing
+- Work with real-time systems (WebSockets, queues)
+- Experiment with AI pipelines (OSS models, FastAPI, Modal)
+- Design systems that don’t block, crash, or silently die
+
+---
+
+## 🧰 Tech
 
 **Frontend**
 - Next.js
 
 **Backend**
-- NestJS
-- FastAPI
-- FastAPI(modal)
+- NestJS, Express
+- FastAPI (AI services)
+
+**Systems**
+- WebSockets
+- Background jobs (Inngest / queues)
+- Docker (basics)
 
 **Languages**
-- JavaScript
-- Typescript
+- TypeScript, JavaScript
 - Python
-- Go basics
-- C basics 
+- Go (learning low-level mindset)
 
 ---
 
-## 📌 Currently
-- Building some dumb projects
-- Going deeper into backend, frontend, and systems
+## 📌 Current Focus
+
+- Going deeper into backend & system design
+- Building production-style systems (async, scalable, deployed)
+- Turning projects into real, reliable products
 
 ---
-
-> If it works, ship it.  
-> If it breaks, debug it.  
-<!---
-Musheer0/Musheer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
