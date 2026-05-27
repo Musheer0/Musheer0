@@ -11,7 +11,7 @@ I build systems. Break them. Fix them. Repeat.
 - Build backend-heavy apps with async processing
 - Work with real-time systems (WebSockets, queues)
 - Experiment with AI pipelines (OSS models, FastAPI, Modal)
-- Design systems that don’t block, crash, or silently die
+- Design systems that don’t block, crash
 
 ---
 
