@@ -1,14 +1,14 @@
 # Hey, I'm Musheer 👋
 
-I build software, break things, fix them, and occasionally wonder why I didn't just become a farmer.
+I build stuff
 
 I'm a self-taught developer interested in **backend engineering, full-stack applications, AI-powered tools, and open source**. Most of my learning happens by building projects, reading docs, and debugging things that absolutely worked five minutes ago.
 
-- ⚙️ Building full-stack apps with Next.js and NestJS
-- 🧠 Exploring AI pipelines, automation, and developer tools
-- 🐧 Daily driving Arch Linux
-- 🔍 Interested in systems, APIs, performance, and how things work under the hood
-- 🌱 Learning by shipping projects, not collecting tutorial completion certificates
+-  Building full-stack apps with Next.js and NestJS
+-  Exploring AI pipelines, automation, and developer tools
+-  Daily driving Arch Linux
+-  Interested in systems, APIs, performance, and how things work under the hood
+-  Learning by shipping projects, not collecting tutorial completion certificates
 
 ## What I work with
 
@@ -18,7 +18,7 @@ I'm a self-taught developer interested in **backend engineering, full-stack appl
 
 **Backend:** Node.js, NestJS, Express, FastAPI, REST APIs, WebSockets
 
-**Databases:** PostgreSQL, Prisma, Neon, Redis, Convex
+**Databases:** PostgreSQL, Prisma, Neon, Redis, Convex,Firebase, Supabase any aws wrappers
 
 **AI & Automation:** LLM APIs, embeddings, RAG, AI agents, workflow automation
 
@@ -27,9 +27,8 @@ I'm a self-taught developer interested in **backend engineering, full-stack appl
 ## Things I've been building
 
 - **Blurfield** — A privacy-focused tool for blurring faces in videos and images.
-- **Autoflow** — Exploring AI-powered workflow automation.
-- **Parivahan / EasyDL** — A mobile-first prototype for digitizing the learner's and driving licence application process.
-- **Open Draw** — A browser-based drawing and editing project.
+- **Autoflow** —  AI-powered workflow automation.
+- **Open Draw** — A browser-based mini canva clone.
 
 Check my repositories for the latest projects and experiments.
 
@@ -54,4 +53,4 @@ Check my repositories for the latest projects and experiments.
 
 ---
 
-*Building things, learning things, and occasionally fighting the compiler. Usually the compiler wins first.*
+*Building things, learning things.*
